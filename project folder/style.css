@@ -150,3 +150,32 @@ panel-deals{
     color:#007158 ;
     font-size: 1.2rem;
 }
+.footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+    background-color: #374753;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:0.85rem;
+}
+.foot-panel2{
+    background-color: #222f3d;
+    color: white;
+    height: 380px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul a{
+    display: block;
+    font-size: 13px;
+    padding-top:10px;
+    font-weight:bold ;
+    color: #cccccc;
+}
+ul p{
+    font-weight: 900;
+}
