@@ -179,3 +179,26 @@ ul a{
 ul p{
     font-weight: 900;
 }
+.foot-panel3{
+    height: 45px;
+    background-color: #131A22;
+    display: flex;
+    justify-content: center;
+}
+.copyright{
+    height: 45px;
+    background-color: #131A22;
+    display: flex;
+    justify-content: center;
+    
+}
+.copyright p{
+    color: white;
+    font-size: 0.75rem;
+    margin-top: 15px;
+}
+.copyright i{
+    color: white;
+    font-size: 0.75rem;
+    margin-top: 15px;
+}
